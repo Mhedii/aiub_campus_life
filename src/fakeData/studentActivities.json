@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "AI Workshop",
+    "date": "2024-06-10",
+    "time": "10:00 AM",
+    "location": "Room 101",
+    "image": "https://www.aiub.edu/Files/Templates/NewAIUB/assets/images/onCampus/sports.jpg",
+    "description": "An introductory workshop on Artificial Intelligence, designed to provide a comprehensive overview of AI technologies, their applications, and future trends. Participants will learn about the history of AI, machine learning algorithms, and deep learning models. The workshop will include hands-on sessions where attendees can experiment with AI tools and frameworks. Organized by the AI Club, this event aims to equip students with the foundational knowledge needed to understand and work with AI. Guest speakers from the tech industry will share their insights and experiences, and there will be opportunities for networking and discussion. Whether you're a beginner or have some experience in AI, this workshop will enhance your understanding and skills. Don't miss this chance to delve into the world of AI and explore its potential to transform industries and society.",
+    "organizer": "AI Club"
+  },
+  {
+    "id": 2,
+    "name": "Coding Bootcamp",
+    "date": "2024-06-15",
+    "time": "09:00 AM",
+    "location": "Lab 202",
+    "image": "https://www.aiub.edu/Files/Templates/NewAIUB/assets/images/onCampus/bengali_new_year.jpg",
+    "description": "A full-day coding bootcamp for beginners, designed to introduce participants to the fundamentals of programming. The bootcamp will cover basic concepts such as variables, loops, and functions, and will progress to more advanced topics like object-oriented programming and data structures. Through a series of practical exercises and projects, attendees will learn how to write efficient and effective code. The Coding Club has organized this event to help students develop their coding skills and prepare for more advanced courses and projects. Instructors with extensive experience in software development will guide participants through the bootcamp, providing personalized feedback and support. By the end of the day, attendees will have a solid understanding of programming principles and be able to create their own simple applications. This bootcamp is an excellent opportunity to kickstart your coding journey and connect with fellow aspiring developers.",
+    "organizer": "Coding Club"
+  },
+  {
+    "id": 3,
+    "name": "Dance Competition",
+    "date": "2024-06-20",
+    "time": "05:00 PM",
+    "location": "Auditorium",
+    "image": "https://www.aiub.edu/Files/Templates/NewAIUB/assets/images/onCampus/sports.jpg",
+    "description": "An inter-college dance competition that brings together the best dancers from various institutions to showcase their talents. The event will feature a variety of dance styles, including classical, contemporary, hip-hop, and folk. Participants will compete in solo, duet, and group categories, and will be judged by a panel of esteemed choreographers and dance experts. The Dance Club has put together this competition to promote cultural diversity and artistic expression through dance. Spectators can expect an evening of high-energy performances, stunning choreography, and vibrant costumes. The competition aims to provide a platform for dancers to express themselves creatively and gain recognition for their skills. In addition to the competition, there will be workshops and masterclasses conducted by professional dancers, offering participants the opportunity to learn new techniques and improve their performance. Join us for an unforgettable night of dance and celebration.",
+    "organizer": "Dance Club"
+  },
+  {
+    "id": 4,
+    "name": "Photography Contest",
+    "date": "2024-06-25",
+    "time": "02:00 PM",
+    "location": "Room 305",
+    "image": "https://www.aiub.edu/Files/Templates/NewAIUB/assets/images/onCampus/bengali_new_year.jpg",
+    "description": "A contest showcasing the best photographs captured by students. The Photography Club invites all photography enthusiasts to participate and share their work. The contest is open to all styles and genres of photography, including portrait, landscape, street, and abstract. Participants can submit up to three entries, which will be judged based on creativity, composition, and technical quality. The top entries will be displayed in an exhibition, and winners will receive certificates and prizes. The contest aims to encourage students to explore their artistic potential and develop their skills in photography. In addition to the contest, there will be a series of workshops and seminars on various aspects of photography, such as lighting, editing, and storytelling. Renowned photographers will share their experiences and offer tips and advice to aspiring photographers. Whether you are a seasoned photographer or just starting out, this contest provides an excellent opportunity to showcase your talent and learn from the best.",
+    "organizer": "Photography Club"
+  },
+  {
+    "id": 5,
+    "name": "Music Festival",
+    "date": "2024-07-01",
+    "time": "06:00 PM",
+    "location": "Open Grounds",
+    "image": "https://www.aiub.edu/Files/Templates/NewAIUB/assets/images/onCampus/sports.jpg",
+    "description": "An evening of music and fun, featuring performances by student bands and solo artists. The Music Festival is a celebration of musical talent and creativity, organized by the Music Club. The event will showcase a variety of genres, including rock, pop, jazz, classical, and folk. Attendees can enjoy live performances, participate in jam sessions, and explore different musical instruments. The festival aims to provide a platform for musicians to perform and connect with a wider audience. In addition to the performances, there will be workshops on music production, songwriting, and improvisation. Professional musicians and industry experts will share their knowledge and insights, offering valuable guidance to aspiring artists. The festival will also feature food stalls, merchandise, and interactive activities, creating a vibrant and festive atmosphere. Join us for an evening of music, fun, and celebration, and support the incredible talent of our student musicians.",
+    "organizer": "Music Club"
+  },
+  {
+    "id": 6,
+    "name": "Robotics Challenge",
+    "date": "2024-07-05",
+    "time": "11:00 AM",
+    "location": "Lab 403",
+    "image": "https://www.aiub.edu/Files/Templates/NewAIUB/assets/images/onCampus/bengali_new_year.jpg",
+    "description": "A challenge for the best robotics teams to compete and demonstrate their skills. The Robotics Challenge, organized by the Robotics Club, invites students to design, build, and program robots to complete a series of tasks and challenges. The competition will test the participants' engineering and problem-solving abilities, as well as their creativity and teamwork. Teams will compete in various categories, such as line following, obstacle avoidance, and robotic soccer. The challenge aims to promote interest in robotics and STEM education, providing students with a hands-on learning experience. In addition to the competition, there will be workshops and seminars on robotics design, programming, and control systems. Industry experts and researchers will share their knowledge and offer guidance to the participants. The Robotics Challenge is an excellent opportunity for students to apply their theoretical knowledge in a practical setting and gain valuable experience in the field of robotics.",
+    "organizer": "Robotics Club"
+  },
+  {
+    "id": 7,
+    "name": "Art Exhibition",
+    "date": "2024-07-10",
+    "time": "01:00 PM",
+    "location": "Art Gallery",
+    "image": "https://www.aiub.edu/Files/Templates/NewAIUB/assets/images/onCampus/bengali_new_year.jpg",
+    "description": "An exhibition of student artworks, showcasing a diverse range of styles and mediums. The Art Exhibition, organized by the Art Club, provides a platform for young artists to display their creations and gain recognition for their talent. The exhibition will feature paintings, drawings, sculptures, and mixed media works, exploring various themes and concepts. Visitors can expect to see a wide range of artistic expressions, from traditional techniques to contemporary and experimental approaches. The exhibition aims to celebrate creativity and inspire both the artists and the audience. In addition to the exhibition, there will be art workshops and live demonstrations, offering participants the opportunity to learn new skills and techniques. Established artists and art educators will share their insights and offer feedback on the exhibited works. The Art Exhibition is an excellent opportunity for art enthusiasts to appreciate the creativity and talent of our student artists.",
+    "organizer": "Art Club"
+  },
+  {
+    "id": 8,
+    "name": "Science Fair",
+    "date": "2024-07-15",
+    "time": "10:00 AM",
+    "location": "Science Block",
+    "image": "https://www.aiub.edu/Files/Templates/NewAIUB/assets/images/onCampus/sports.jpg",
+    "description": "A fair displaying various scientific projects and experiments conducted by students. The Science Fair, organized by the Science Club, aims to promote scientific inquiry and innovation. Participants will present their projects, which cover a wide range of scientific disciplines, including physics, chemistry, biology, and environmental science. The fair provides a platform for students to showcase their research, share their findings, and engage with the audience. Judges will evaluate the projects based on originality, scientific merit, and presentation. The top projects will receive awards and recognition. In addition to the project presentations, there will be interactive exhibits, science demonstrations, and hands-on activities for visitors. The Science Fair aims to inspire a love for science and encourage students to pursue careers in STEM fields. It is an excellent opportunity for students to apply their knowledge, develop their research skills, and connect with like-minded peers.",
+    "organizer": "Science Club"
+  },
+  {
+    "id": 9,
+    "name": "Drama Night",
+    "date": "2024-07-20",
+    "time": "07:00 PM",
+    "location": "Auditorium",
+    "image": "https://www.aiub.edu/Files/Templates/NewAIUB/assets/images/onCampus/sports.jpg",
+    "description": "A fair displaying various scientific projects and experiments conducted by students. The Science Fair, organized by the Science Club, aims to promote scientific inquiry and innovation. Participants will present their projects, which cover a wide range of scientific disciplines, including physics, chemistry, biology, and environmental science. The fair provides a platform for students to showcase their research, share their findings, and engage with the audience. Judges will evaluate the projects based on originality, scientific merit, and presentation. The top projects will receive awards and recognition. In addition to the project presentations, there will be interactive exhibits, science demonstrations, and hands-on activities for visitors. The Science Fair aims to inspire a love for science and encourage students to pursue careers in STEM fields. It is an excellent opportunity for students to apply their knowledge, develop their research skills, and connect with like-minded peers.",
+    "organizer": "Science Club"
+  }
+]

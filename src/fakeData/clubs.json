@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "AI Club",
+    "description": "A club dedicated to exploring the field of Artificial Intelligence.",
+    "contact": "ai.club@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Coding Club",
+    "description": "A club for students interested in coding and software development.",
+    "contact": "coding.club@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Dance Club",
+    "description": "A club for students passionate about dancing.",
+    "contact": "dance.club@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Photography Club",
+    "description": "A club for photography enthusiasts.",
+    "contact": "photo.club@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Music Club",
+    "description": "A club for students who love music and performing.",
+    "contact": "music.club@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Robotics Club",
+    "description": "A club for students interested in robotics and automation.",
+    "contact": "robotics.club@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Art Club",
+    "description": "A club for students who enjoy creating and appreciating art.",
+    "contact": "art.club@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Science Club",
+    "description": "A club for students interested in various scientific fields.",
+    "contact": "science.club@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Drama Club",
+    "description": "A club for students passionate about theater and drama.",
+    "contact": "drama.club@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Sports Club",
+    "description": "A club for students interested in sports and physical activities.",
+    "contact": "sports.club@example.com"
+  }
+]

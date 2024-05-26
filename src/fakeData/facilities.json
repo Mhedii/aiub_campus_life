@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Library",
+    "description": "A state-of-the-art library with a vast collection of books and digital resources.",
+    "location": "Building A, 2nd Floor",
+    "contact": "library@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Computer Lab",
+    "description": "A modern computer lab equipped with the latest hardware and software.",
+    "location": "Building B, Ground Floor",
+    "contact": "comp.lab@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Gymnasium",
+    "description": "A fully equipped gymnasium for students to maintain their fitness.",
+    "location": "Building C, 1st Floor",
+    "contact": "gym@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Auditorium",
+    "description": "A large auditorium for events, seminars, and cultural programs.",
+    "location": "Building D, 3rd Floor",
+    "contact": "auditorium@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Cafeteria",
+    "description": "A spacious cafeteria offering a variety of food and beverages.",
+    "location": "Building E, Ground Floor",
+    "contact": "cafeteria@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Sports Ground",
+    "description": "A large sports ground for various outdoor sports and activities.",
+    "location": "Behind Building F",
+    "contact": "sports.ground@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Art Studio",
+    "description": "A well-equipped art studio for students to explore their creativity.",
+    "location": "Building G, 2nd Floor",
+    "contact": "art.studio@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Science Lab",
+    "description": "A modern science lab for conducting experiments and research.",
+    "location": "Building H, 1st Floor",
+    "contact": "science.lab@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Music Room",
+    "description": "A dedicated music room with instruments and sound equipment.",
+    "location": "Building I, Ground Floor",
+    "contact": "music.room@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Medical Center",
+    "description": "A medical center providing healthcare services to students.",
+    "location": "Building J, 1st Floor",
+    "contact": "medical.center@example.com"
+  }
+]
