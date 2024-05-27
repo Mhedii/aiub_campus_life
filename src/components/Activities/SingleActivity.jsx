@@ -13,14 +13,14 @@ const SingleActivity = () => {
 
   return (
     <div>
-      <div className="mx-[20rem] border border-gray-200 mt-[8rem] p-[1.5rem] rounded-md ">
+      <div className="xl:mx-[20rem] lg:mx-[15rem] mx-[1rem] border border-gray-200 mt-[8rem] p-[1.5rem] rounded-md ">
         <div className="justify-center text-center flex">
           <p className="text-3xl text-secondary font-medium   w-fit">
             {activity.name}
             <hr className="border-t-4 border-secondary mt-2" />
           </p>
         </div>
-        <div className="justify-end text-end font-medium text-lg ">
+        <div className="justify-end text-end font-medium text-sm md:text-lg my-4">
           <p>
             Organized By:{" "}
             <span className="font-normal">{activity.organizer}</span>

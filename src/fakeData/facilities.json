@@ -1,72 +1,70 @@
 [
   {
     "id": 1,
-    "name": "Library",
-    "description": "A state-of-the-art library with a vast collection of books and digital resources.",
+    "name": "AIUB IT Infrastructure",
+    "description": "Since its inception, AIUB always emphasized the importance of modern ICT infrastructure and introduced a broad spectrum of ICT-enabled services within its campus. With a Tier 2 Data Center, 1 Gbps high-speed internet connection, 10 Gbps campus backbone network, super-fast WiFi network, state-of-the-art network incident monitoring and defense center, automated entry control system, and a home-grown Virtual University Expert System (VUES), AIUB is way ahead than others in the country. It houses the largest Virtual Desktop Infrastructure (VDI) solution equipped with 25 powerful servers running on Citrix and Microsoft Hyper-V virtualization platform. The VDI solution is unique in its kind developed and maintained by the IT department and hosts 1200 virtual machines in the university private cloud.",
+    "image":"https://www.aiub.edu/Files/Uploads/aiub-data-center.jpg",
+    "image2":"https://www.aiub.edu/Files/Uploads/20230321_154141.jpg",
+    "image3":"https://www.aiub.edu/Files/Uploads/20230321_153940.jpg",
+    "image4":"https://www.aiub.edu/Files/Uploads/dc_sideview.jpg",
     "location": "Building A, 2nd Floor",
-    "contact": "library@example.com"
+    "contact": "it@aiub.com"
   },
   {
     "id": 2,
-    "name": "Computer Lab",
-    "description": "A modern computer lab equipped with the latest hardware and software.",
+    "name": "AIUB Daycare Facilities",
+    "description": "As a part of its commitment to the university community, the American International University–Bangladesh (AIUB) always strives to create an environment that enables its students and employees to pursue their educational and professional goals at the university. Childcare is an integral part of parenthood but is also a challenge to manage when it comes to full-time students or working parents. Hence, the AIUB Daycare Facility is an initiative geared towards providing a form of support to the students and employees, who have children and face the difficulties of having to care for them during their study/work hours, enabling them to be able to balance both their children’s responsibilities and study/work obligations. The Daycare facility is a safe and secured place for the children to learn, play and grow, giving the parents a peace of mind to pursue their education or careers, knowing that their children are also a part of the AIUB family and are being well taken care of.",
+    "image":"https://www.aiub.edu/Files/Uploads/facilities-day-care-2024-1.JPG",
+    "image2":"https://www.aiub.edu/Files/Uploads/facilities-day-care-2024-2.JPG",
+    "image3":"https://www.aiub.edu/Files/Uploads/facilities-day-care-2024-3.JPG",
+    "image4":"https://www.aiub.edu/Files/Uploads/facilities-day-care-2024-4.JPG",
     "location": "Building B, Ground Floor",
-    "contact": "comp.lab@example.com"
+    "contact": "daycare@aiub.com"
   },
   {
     "id": 3,
-    "name": "Gymnasium",
-    "description": "A fully equipped gymnasium for students to maintain their fitness.",
+    "name": "Support  for  Disability",
+    "description": "AIUB is committed to providing services to its stakeholders of any age, gender, sexual orientation, race, disability, color, religion, under represented groups, underprivileged and national or ethnic origin.As and when required students and employees with any form of disabilities will be rendered adequate services within the capacity of the university. For prior intimation or approval regarding availing such services, students are requested to contact the Office of Student Affairs and employees to the Office of the Human Resource.",
+    "image":"https://www.aiub.edu/Files/Uploads/disable.jpg",
+    "image2":"https://www.aiub.edu/Files/Uploads/disable.jpg",
+    "image3":"https://www.aiub.edu/Files/Uploads/disable.jpg",
+    
     "location": "Building C, 1st Floor",
-    "contact": "gym@example.com"
+    "contact": "support@aiub.com"
   },
   {
     "id": 4,
-    "name": "Auditorium",
-    "description": "A large auditorium for events, seminars, and cultural programs.",
+    "name": "AIUB Swimming Pool",
+    "description": "AIUB is equipped with a state-of-the-art aquatic facility situated on the 11th floor of the D Building. The integration of this swimming pool into the university campus not only introduces a rejuvenating recreational amenity but also offers a myriad of advantages for the physical, mental, and social well-being of our diverse community.Moreover, the facility features segregated steam baths for both male and female users, ensuring a comfortable and private experience. Additionally, there are distinct shower zones designated for male and female individuals, promoting a sense of privacy and convenience. To further enhance the experience, designated male and female instructors are available to provide guidance and assistance, contributing to a comprehensive and inclusive aquatic environment at AIUB.",
+    "image":"https://www.aiub.edu/Files/Templates/NewAIUB/assets/images/onCampus/green_campus.JPG",
+     
     "location": "Building D, 3rd Floor",
-    "contact": "auditorium@example.com"
+    "contact": "campus@aiub.com"
   },
   {
     "id": 5,
-    "name": "Cafeteria",
-    "description": "A spacious cafeteria offering a variety of food and beverages.",
+    "name": "Recreational Area",
+    "description": "Awe-inspiring open space amphitheater, with high-quality sound system and a seating capacity of approximately 1000, for hosting various cultural programs ranging from stage plays to musical performances Bustling student zone with scenic waterworks, indoor games, and lounge areas.State-of-the-art Auditorium and Multipurpose Hall, with built-in acoustics, world-class sound systems, P3 LED projection screens, and a seating capacity of around 1000",
+    "image":"https://www.aiub.edu/Files/Uploads/6m9b3562.jpg",
     "location": "Building E, Ground Floor",
-    "contact": "cafeteria@example.com"
+    "contact": "resident@aiub.com"
   },
   {
     "id": 6,
-    "name": "Sports Ground",
-    "description": "A large sports ground for various outdoor sports and activities.",
+    "name": "Cafeteria",
+    "description": "In-house cafeteria and food carts bustling with variety of delicious and healthy options, catering to the needs of students and staff, from breakfast, lunch, and snacks throughout the day. The university cafeteria serves as a vital hub for students, faculty, and staff, providing not just sustenance but also fostering social interactions and promoting a sense of community.",
     "location": "Behind Building F",
+    "image":"https://www.aiub.edu/Files/Uploads/cafeteria-2024-1.JPG",
+    "image2":"https://www.aiub.edu/Files/Uploads/cafeteria-2024-2.JPG",
+    "image3":"https://www.aiub.edu/Files/Uploads/cafeteria-2024-3.JPG",
     "contact": "sports.ground@example.com"
   },
   {
     "id": 7,
-    "name": "Art Studio",
-    "description": "A well-equipped art studio for students to explore their creativity.",
+    "name": "Security",
+    "description": "Outsourced world-class security solutions, with CCTV surveillance, archway scanners, metal detectors, luggage scanners, etc., along with specialized automated flap gates and turnstile barriers accessible by designated student, faculty, and official IDs, to ensure a safe environment on campus 24/7. A 2-storied underground parking and an open outdoor parking with a capacity of 160 and 210 respectively.",
+    "image":"https://www.aiub.edu/Files/Uploads/security.jpg",
     "location": "Building G, 2nd Floor",
     "contact": "art.studio@example.com"
-  },
-  {
-    "id": 8,
-    "name": "Science Lab",
-    "description": "A modern science lab for conducting experiments and research.",
-    "location": "Building H, 1st Floor",
-    "contact": "science.lab@example.com"
-  },
-  {
-    "id": 9,
-    "name": "Music Room",
-    "description": "A dedicated music room with instruments and sound equipment.",
-    "location": "Building I, Ground Floor",
-    "contact": "music.room@example.com"
-  },
-  {
-    "id": 10,
-    "name": "Medical Center",
-    "description": "A medical center providing healthcare services to students.",
-    "location": "Building J, 1st Floor",
-    "contact": "medical.center@example.com"
   }
 ]

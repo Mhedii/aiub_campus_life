@@ -1,62 +1,114 @@
 [
   {
     "id": 1,
-    "name": "AI Club",
-    "description": "A club dedicated to exploring the field of Artificial Intelligence.",
-    "contact": "ai.club@example.com"
+    "contact":"8801777111222",
+    "name": "AIUB ARTS CLUB (AAC)",
+    "image": "https://www.aiub.edu/Files/Uploads/aac-new.png",
+    "objective": "Established in 2006, the purpose of the AAC is to provide students with an opportunity to explore their creativity and artistic talents. The club aims to encourage students to explore their artistic talents, provide a platform for students to share their work with others, promote creativity and foster a sense of community among them.",
+    "activities": "The club engages in a variety of activities, ranging from art workshops, competitions, and exhibitions, organizing and participating within and outside of the university. From commemorating the International Mother Language Day on the 21st of February to celebrating the Bengali New Year on Pahela Baishakh every year, AAC collaborates to express their creativity through strokes, colors, and shades to create awe-inspiring pieces of art.",
+    "membership": "Membership of AAC is open to students from all 4 Faculties of the university, who are interested in art. Recruitments are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 96 proactive members working in AAC.",
+    "leadership": "AAC operates under the supervision of the Office of Student Affairs (OSA), following the general structure for the Executive Committee (EC). OSA provides overall guidance, logistical facilitation, and constant support to the EC for implementing the various events of the club.",
+    "future_outlook": "AAC plans to expand its scope and reach as an artistic platform in the future. The club hopes to offer more constructive workshops, as well as opportunities for students to create incredible artwork, participate in competitions, and exhibit their work to the world."
   },
   {
     "id": 2,
-    "name": "Coding Club",
-    "description": "A club for students interested in coding and software development.",
-    "contact": "coding.club@example.com"
+    "contact":"8801777111222",
+    "name": "AIUB BUSINESS CLUB (ABC)",
+    "image": "https://www.aiub.edu/Files/Uploads/original/abc.jpg",
+    "objective": "ABC was established in 2009 as a learning organization with the aim of providing students with the opportunity to learn about business, develop their entrepreneurial skills, and network with other students and professionals. The club works to equip students with the knowledge and skills they need to succeed in the business world, enabling them to develop their entrepreneurial spirit and leadership capabilities, building a network of business professionals and organizations to connect with, learn from, and collaborate.",
+    "activities": "The club arranges numerous seminars, workshops, and competitions that explore new business ideas, case studies, presentation skills, leadership practices, career opportunities, etc. Their work enables students to undertake real-life simulations in managing people, market brands, handle finances, optimize logistics, and design initiatives.",
+    "membership": "ABC is considered as a departmental club for the Faculty of Business Administration (FBA), but students from other Faculties are also encouraged to apply for the membership in order to enhance their business sense and capacities. Recruitments are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 77 proactive members working in ABC.",
+    "leadership": "ABC operates under the supervision of the Office of Student Affairs (OSA), following the general structure for the Executive Committee (EC), with the designations adapted to reflect business corporations more aptly. OSA provides overall guidance, logistical facilitation, and constant support to the EC for implementing the various events of the club, with cooperation from FBA.",
+    "future_outlook": "ABC intends to broaden its horizon in the business landscape, with more flagship events that augment the students’ understanding and experience of real-life business scenarios, in hope of creating opportunities for further corporate collaborations that can enhance their expertise through productive sessions and challenging tournaments."
   },
   {
     "id": 3,
-    "name": "Dance Club",
-    "description": "A club for students passionate about dancing.",
-    "contact": "dance.club@example.com"
+    "contact":"8801777111222",
+    "name": "AIUB COMMUNITY OF ENGINEERING STUDENTS (ACES)",
+    "image": "https://www.aiub.edu/Files/Uploads/original/aces.jpg",
+    "objective": "ACES envisions to be a professional student organization offering welfare and services for engineering students and help the community both academically and skillfully. Since they began their journey in 2014, the club has focused on enabling the engineering community grow by working to expand engineering awareness through its programs and events, facilitate the professional advancement of all engineering students, develop the quality of life of disadvantaged communities through implementation of environmentally and economically sustainable engineering projects, and creating transformative experiences and responsible leaders.",
+    "activities": "ACES has always put in efforts to bridge the gap between the university and industries, provide opportunities for its members to make contributions to their local and global communities, honor outstanding engineering students who have excelled in character, leadership skills, and volunteer activities through competitive events, and conduct insightful seminars and workshops that will benefit the engineering students to build better and sustainable future for themselves and the society.",
+    "membership": "ACES was established as a student organization where students from both the Faculty of Engineering (FE) and the Faculty of Science & Technology (FST) are encouraged to apply for the membership. Recruitments are conducted bi-annually, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 255 proactive members working at ACES.",
+    "leadership": "ACES operates under the supervision of the Office of Student Affairs (OSA), following the general structure for the Executive Committee (EC), using corresponding designations. Together in coordination with FE, OSA provides overall guidance, logistical facilitation, and constant support to the EC for implementing the various events of the club.",
+    "future_outlook": "ACES is working towards a world in which the communities we serve have the capacity to sustainably meet their basic human needs and that our members have enriched global perspectives through innovative professional educational opportunities."
   },
   {
     "id": 4,
-    "name": "Photography Club",
-    "description": "A club for photography enthusiasts.",
-    "contact": "photo.club@example.com"
+    "contact":"8801777111222",
+    "name": "AIUB COMPUTER CLUB (ACC)",
+    "image": "https://www.aiub.edu/Files/Uploads/original/acc-logo.jpg",
+    "objective": "ACC commenced in 2012 with the idea of creating a platform for students to spread out the light of technology, building skills in various sectors including Content Writing, Photojournalism, Video Editing, Event Organizing, Volunteering, Development, UI/UX Design, and Graphic Design, connect with a community of members, alumni, and faculties in order to learn about the demanding skills of the current and future professional domain, and organize programs that train and test their aptitudes in the field of computer science.",
+    "activities": "ACC is an infusion of a diverse set of interests existing within the students of science and IT, enhancing the educational learning with value-added trainings, workshops, and seminars for the members. Their events entail numerous activities like programming contests, gaming tournaments, idea/concept presentations, mobile, web, & desktop app showcases, and networking contests, collaborating with established brands of the tech industry like Microsoft, Oracle, Cisco, etc. ACC engages in several flagship events like the Computer Science Festival, Cyber-Gaming Fest, Jarvis, etc., besides their regular seminars and workshops. Keeping attuned with the industry trends, ACC collaborates with various organizations like Mozilla Bangladesh, Microsoft Student Partner, BASIS Student Forum.",
+    "membership": "ACC is considered as a departmental club for the Faculty of Science (FST), but students from the Faculty of Engineering (FE) are also encouraged to apply for the membership. Recruitments are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 130 proactive members working at ACC.",
+    "leadership": "ACC operates under the supervision of the Office of Student Affairs (OSA), following the general structure for the Executive Committee (EC). Together in coordination with FST, OSA provides overall guidance, logistical facilitation, and constant support to the EC for implementing the various events of the club.",
+    "future_outlook": "ACC focuses on the development of students, committed to introducing them to the ever-changing information and technology world of today. They are working with a vision to create leaders in the emerging technology sector, preparing them for the as the future pioneering trailblazers of the future."
   },
   {
     "id": 5,
-    "name": "Music Club",
-    "description": "A club for students who love music and performing.",
-    "contact": "music.club@example.com"
+    "contact":"8801777111222",
+    "name": "AIUB DRAMA CLUB (ADC)",
+    "image": "https://www.aiub.edu/Files/Uploads/original/adc.png",
+    "objective": "ADC aims to provide students with the opportunity to explore their creative talents in theatre stage plays, since its inception in 2004. The club encourages students to explore their artistic talents, provide a forum for members to share their work, and foster a sense of community that can come together to bring stories of inspiration, tragedy, and heritage to life.",
+    "activities": "From acting classes, scriptwriting workshops, stagecraft sessions, ADC focuses on developing the caliber of its members, in order to create thought-provoking stage plays in a theatre format, emphasizing on historical events like the Liberation War and Bengali Language Movement, social issues like gender discrimination and social inequality, as well as comical satires and global events. Their performances have been showcased both within the university as well as externally in noteworthy institutions like the Bangladesh Shilpokala Academy over the years.    ",
+    "membership": "Membership of ADC is open to students from all 4 Faculties of the university, who are interested in theatre and stage plays. Recruitments are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 30 proactive members working at ADC.",
+    "leadership": "ADC operates under the supervision of the Office of Student Affairs (OSA), following the general structure for the Executive Committee (EC). OSA provides overall guidance, logistical facilitation, and constant support to the EC for implementing the various events of the club.",
+    "future_outlook": "ADC plans to expand its offerings in the future by partnering with local theaters and arts organizations. The club hopes to be able to offer more workshops, as well as opportunities for students to write and produce their own plays. Through constructive collaboration, ADC looks forward to gaining access to a strong network of professionals and utilizing resources to realize their prospects in drama."
   },
   {
     "id": 6,
-    "name": "Robotics Club",
-    "description": "A club for students interested in robotics and automation.",
-    "contact": "robotics.club@example.com"
+    "contact":"8801777111222",
+    "name": "AIUB ENGLISH CLUB",
+    "image": "https://www.aiub.edu/Files/Uploads/aiub-english-club.png",
+    "objective": "Established in 2023, the purpose of the AIUB English Club (AEngC) is to provide students with an engaging environment where they can learn about the English language, its literary work, and its usage as a medium of communication. Through diverse activities and collaborative projects, members can work on practicing and improving their listening, speaking, reading, and writing skills, to build confidence and competence in public speaking, presentations, debates, creative writing, editorials, etc.",
+    "activities": "Besides their regular general meetings and member recruitment campaigns, the AEngC arranges interactive discussion sessions for its members, workshops focusing on various aspects speaking, reading, listening, and writing, public speaking events, collaborative writing projects, etc., geared towards encouraging and enabling students to proactively work on improving their dexterity on the English language.",
+    "membership": "Although AEngC is considered as a departmental club of the Faculty of Arts & Social Sciences (FASS), students from all 4 Faculties of the university, who are interested in enhancing their skills and knowledge of the English language, are welcome to join AEngC. Recruitments are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 130 proactive members working at AEngC.",
+    "leadership": "AEngC operates under the supervision of the Office of Student Affairs (OSA), following the general structure for the Executive Committee (EC). OSA provides overall guidance, logistical facilitation, and constant support to the EC for implementing the various events of the club, in collaboration with the Department of English in FASS.",
+    "future_outlook": "The club aims to become a vibrant and integral part of the student community, creating a platform that can aid in developing their understanding and proficiency in English. AEngC intends to explore collaborative partnerships with various local organizations that work on English language programs or have resources/expertise in the field of public speaking, presentations, professional writing, etc. in order to provide mentorship and enrich the club’s workshops and seminars further. The goal is to then engage in national and regional competitions, by participating as well as organizing the events in the future."
   },
   {
     "id": 7,
-    "name": "Art Club",
-    "description": "A club for students who enjoy creating and appreciating art.",
-    "contact": "art.club@example.com"
+    "contact":"8801777111222",
+    "name": "AIUB ENVIRONMENT CLUB",
+    "image": "https://www.aiub.edu/Files/Uploads/aiub-environment-club.png",
+    "objective": "With the increasing changes of global warming, since its inception in 2023, the AIUB Environment Club (AEC) works towards protecting and preserving the environment for future generations, creating a world where humans live in harmony with nature. AEC aims to spread awareness about climate change to all the students, offering students the opportunity to serve their community and expand their skills in the process.",
+    "activities": "The club engages in initiatives through a nationwide network of various institutions working towards preserving and protecting the environment. Ranging from rallies to seminars and tree plantation campaigns, AEC focuses on educating the general student community, along with the general society, on crucial environmental issues, their impact on our lives, and how to resolve them in the long run. The club focuses on promoting awareness about environmental degradation including plastic production, excessive use of plastic made items, water and air pollution, deforestation, recycling and erosion in all the regions of Bangladesh.",
+    "membership": "Membership of AEC is open to students from all 4 Faculties of the university, who are interested in working for the protection and preservation of the environment. Recruitments are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 100 proactive members working at AEC.",
+    "leadership": "AEC operates under the supervision of the Office of Student Affairs (OSA), following the general structure for the Executive Committee (EC). OSA provides overall guidance and constant support to the EC for implementing the various events of the club.",
+    "future_outlook": "AEC will continue addressing the challenges of climate change and spreading awareness, along with taking initiatives to collaborate with various organizations in order to reduce pollution and greenhouse gas emissions from the industries and traffic congestion, protect endangered species of plants, wildlife, and habitats, and of course, promote sustainable development of the environment around us for the years to come."
   },
+ 
   {
     "id": 8,
-    "name": "Science Club",
-    "description": "A club for students interested in various scientific fields.",
-    "contact": "science.club@example.com"
+    "contact":"8801777111222",
+    "name": "AIUB FILM CLUB (AFC)",
+    "image": "https://www.aiub.edu/Files/Uploads/original/afc-(1).jpg",
+    "objective": "Established in 2009, the purpose of the AIUB Film Club (AFC) is to provide a forum for students to discuss and learn about filmmaking. Their aim is to promote culture through the camera, sharing the creative talent of bringing stories to life through a network of people passionate about learning and engaging in the art of filmmaking.",
+    "activities": "AFC primarily works on creating short films covering various social issues, cultural aspects, and student life, while arranging film shows to as a form of recreational activity for the student community and to expose them to a broad spectrum of movies, ranging from Bengali, English, and even Korean. The club also conducts workshops for their members to better train them in the process of filmmaking, as directors, script writers, cinematographers, set designers, production managers, editors, actors, etc. AFC both organizes and participates in a number of different film festivals, competing in short films, where they have made several achievements with original stories, along with a number of different launch events and activations for the premier or screening of noteworthy releases of Bangladeshi cinema.",
+    "membership": "Membership of AFC is open to students from all 4 Faculties of the university, who are interested in the art of filmmaking. Recruitments are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 80 proactive members working at AFC.",
+    "leadership": "AFC operates under the supervision of the Office of Student Affairs (OSA), following the general structure for the Executive Committee (EC). OSA provides overall guidance and constant support to the EC for implementing the various events of the club.",
+    "future_outlook": "With an aim to increase students’ appreciation of filmmaking as an art form, AFC will continue to provide opportunities for students to learn, analyze, and create films, as well as collaborating with various organizations of the film industry in Bangladesh to present and promote culture, through life stories in frames."
   },
+  
   {
     "id": 9,
-    "name": "Drama Club",
-    "description": "A club for students passionate about theater and drama.",
-    "contact": "drama.club@example.com"
+    "contact":"8801777111222",
+    "name": "AIUB MOOT COURT CLUB (AMCC)",
+    "image": "https://www.aiub.edu/Files/Uploads/aiub-moot-court-club-logo.png",
+    "objective": "Established in 2023, the AIUB Moot Court Club (AMCC) with the aim to cultivate a stimulating environment where students can develop exceptional legal research, writing, and advocacy skills through moot court competitions. AMCC fosters critical thinking, analytical reasoning, and persuasive communication in a competitive legal setting, providing opportunities for students to gain practical courtroom experience and build confidence in public speaking, while promote a deeper understanding of legal principles and their application in contemporary legal issues.",
+    "activities": "AMCC arranges weekly workshops on legal research strategies, case analysis, and oral advocacy techniques and internal moot court competitions simulating real-world court proceedings, allowing students to hone their litigation skills. Members also participate in regional, national, and international moot court competitions, representing AIUB on a prestigious platform. The club also organizes guest speaker sessions featuring legal professionals, judges, or prominent lawyers sharing insights from the legal field along with conducting mock client consultations and negotiation exercises to develop client communication and problem-solving skills. AMCC offers its members and alumni networking opportunities with alumni working in the legal profession and potential employers.",
+    "membership": "AMCC is considered as a departmental club for the Department of Law under the Faculty of Arts & Social Sciences (FASS). Recruitments are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 77 proactive members working at AMCC.",
+    "leadership": "AMCC operates under the supervision of the Office of Student Affairs (OSA), following the general structure for the Executive Committee (EC). OSA provides overall guidance and constant support to the EC for implementing the various events of the club.",
+    "future_outlook": "AMCC aims to be a premier organization for aspiring legal professionals at AIUB. T The club plans to collaborate with local law firms, legal aid organizations, or judicial chambers can expose members to practical legal applications, organize on-campus legal workshops or seminars for the wider student body can expand the club's reach and promote legal awareness, and building a strong alumni network can provide mentorship and career opportunities for current and future members."
   },
   {
     "id": 10,
-    "name": "Sports Club",
-    "description": "A club for students interested in sports and physical activities.",
-    "contact": "sports.club@example.com"
+    "contact":"8801777111222",
+    "name": "AIUB ORATORY CLUB (AOC)",
+    "image": "https://www.aiub.edu/Files/Uploads/original/aoc.png",
+    "objective": "The AIUB Oratory Club (AOC) was established in 2000 with the aim of providing students with the opportunity to develop their communications skills through the practice of debating. AOC focuses on equipping students with a platform to hone their critical thinking, research capabilities, articulation and diction in the format of oration.",
+    "activities": "Enabling and encouraging public speaking, AOC conducts a number of different workshops and competitions that are geared towards helping students develop their abilities of problem-solving, quick-thinking, and brainstorming. The club participates and organizes national debate championships, in both formats of Bengali and English, within the university as well as on a national level. AOC undertakes initiatives to improve aspects of presentation, negotiation, and leadership amongst its members and the general student body.",
+    "membership": "Membership of AOC is open to students from all 4 Faculties of the university, who are interested in debate and public speaking. Recruitments are conducted during the semesters, through which applicants are evaluated, interviewed, and selected to join the club. Currently, there are 89 proactive members working at AOC.",
+    "leadership": "AOC operates under the supervision of the Office of Student Affairs (OSA), following the general structure for the Executive Committee (EC). OSA provides overall guidance and constant support to the EC for implementing the various events of the club.",
+    "future_outlook": "AOC plans to create a diverse set of programs that will prepare students with skills needed to succeed in competitive environments. Through collaborations with alumni members of the debating fraternity, AOC will devise a diverse set of programs aimed towards engaging youth leadership, create socio-political awareness, and constructive team building that stimulates stronger democracy, unity, and empathy."
   }
 ]
