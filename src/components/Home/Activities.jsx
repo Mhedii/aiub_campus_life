@@ -14,37 +14,36 @@ const Activities = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-[1.5rem] mt-[1.5rem] ">
         {studentActivities.slice(0, 4).map((activity) => (
-          <>
-            <Link to={`/activities/${activity.name} `}>
-              <div
-                className="card w-full bg-base-100 shadow-2xl hover:cursor-pointer hover:scale-105 hover:border hover:border-secondary "
-                key={activity.id}
-              >
-                <figure>
-                  <img src={activity.image} alt="Shoes" />
-                </figure>
-                <div>
-                  <p className="font-medium text-secondary justify-end flex pt-1 pe-3">
-                    On {activity.date} at {activity.time}
-                  </p>
-                </div>
-                <div className="card-body pt-2 ">
-                  <h2 className="card-title flex-col lg:flex-row">
-                    <div className="badge badge-primary text-white py-3  text-xs">
-                      {activity.name}
-                    </div>
-                    <div className="badge badge-primary text-white py-3  text-xs ">
-                      {activity.organizer}
-                    </div>
-                  </h2>
-
-                  <p className="text-justify text-lg">
-                    {activity.description.slice(0, 150)}....
-                  </p>
-                </div>
+          <Link to={`/activities/${activity.name} `} key={activity.id}>
+            <div className="card w-full bg-base-100 shadow-2xl hover:cursor-pointer hover:scale-105 hover:border hover:border-secondary ">
+              <figure>
+                <img
+                  className=" h-[7rem] lg:h-[15rem] w-auto "
+                  src={activity.image}
+                  alt="Shoes"
+                />
+              </figure>
+              <div>
+                <p className="font-medium text-secondary justify-end flex pt-1 pe-3">
+                  On {activity.date} at {activity.time}
+                </p>
               </div>
-            </Link>
-          </>
+              <div className="card-body pt-2 ">
+                <h2 className="card-title flex-col lg:flex-row">
+                  <div className="badge badge-primary text-white py-3  text-xs">
+                    {activity.name}
+                  </div>
+                  <div className="badge badge-primary text-white py-3  text-xs ">
+                    {activity.organizer}
+                  </div>
+                </h2>
+
+                <p className="text-justify text-sm lg:text-md xl:text-lg  lg:h-[6rem]    ">
+                  {activity.description.slice(0, 130)}....
+                </p>
+              </div>
+            </div>
+          </Link>
         ))}
       </div>
       <Link to="/activities">

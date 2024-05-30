@@ -12,34 +12,32 @@ const Facilities = () => {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-[1.5rem] mt-[1.5rem] ">
             {facilities.map((facility) => (
-              <>
-                <Link to={`/facilities/${facility.name} `}>
-                  <div
-                    className="card w-full bg-base-100 shadow-2xl hover:cursor-pointer hover:scale-105 hover:border hover:border-secondary "
-                    key={facility.id}
-                  >
-                    <figure>
-                      <img
-                        src={facility.image}
-                        alt={facility.name}
-                        className="h-[10rem]"
-                      />
-                    </figure>
+              <Link to={`/facilities/${facility.name} `}>
+                <div
+                  className="card w-full bg-base-100 shadow-2xl hover:cursor-pointer hover:scale-105 hover:border hover:border-secondary "
+                  key={facility.id}
+                >
+                  <figure>
+                    <img
+                      src={facility.image}
+                      alt={facility.name}
+                      className="h-[10rem]"
+                    />
+                  </figure>
 
-                    <div className="card-body pt-2 ">
-                      <h2 className="card-title">
-                        <div className="badge badge-primary text-white py-3  text-md">
-                          {facility.name}
-                        </div>
-                      </h2>
+                  <div className="card-body pt-2 ">
+                    <h2 className="card-title">
+                      <div className="badge badge-primary text-white py-3  text-md">
+                        {facility.name}
+                      </div>
+                    </h2>
 
-                      <p className="text-justify text-lg">
-                        {facility.description.slice(0, 150)}....
-                      </p>
-                    </div>
+                    <p className="text-justify text-lg">
+                      {facility.description.slice(0, 150)}....
+                    </p>
                   </div>
-                </Link>
-              </>
+                </div>
+              </Link>
             ))}
           </div>
         </div>
