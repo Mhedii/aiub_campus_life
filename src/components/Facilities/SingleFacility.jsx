@@ -21,21 +21,11 @@ const SingleFacility = () => {
           </p>
         </div>
         <div className="justify-end text-end font-medium text-lg ">
-          {/* <p>
-            Organized By:{" "}
-            <span className="font-normal">{facility.organizer}</span>
-          </p>
-          <p>
-            Date: <span className="font-normal">{facility.date}</span>
-          </p>
-          <p>
-            Time: <span className="font-normal">{facility.time}</span>
-          </p> */}
           <p>
             Location: <span className="font-normal">{facility.location}</span>
           </p>
         </div>
-        {/* <img src={facility.image} alt="" className="mx-auto" /> */}
+        <img src={facility.image} alt="" className="mx-auto" />
         <div className="   ">
           <p className="text-2xl text-secondary font-medium   w-fit">
             Description
