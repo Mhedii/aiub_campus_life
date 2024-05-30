@@ -13,18 +13,15 @@ const ContactForm = () => {
   const form = useRef();
   const { executeRecaptcha } = useGoogleReCaptcha();
 
-  const sendEmail = async (data, e) => {
-    e.preventDefault();
-
+  const sendEmail = async (data) => {
     if (!executeRecaptcha) {
       toast.error("Recaptcha has not been loaded");
       return;
     }
 
     try {
-      const token = await executeRecaptcha("contactForm");
+      const token = await executeRecaptcha("contact");
 
-      // Append the token to the form data
       const formData = new FormData(form.current);
       formData.append("g-recaptcha-response", token);
 
